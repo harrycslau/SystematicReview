@@ -1,0 +1,908 @@
+﻿TY  - JOUR
+AU  - Sirois, J.E.
+TI  - Comprehensive investigation evaluating the carcinogenic hazard potential of acetaminophen
+PY  - 2021
+T2  - Regulatory Toxicology and Pharmacology
+VL  - 123
+C7  - 104944
+DO  - 10.1016/j.yrtph.2021.104944
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85105336269&doi=10.1016%2fj.yrtph.2021.104944&partnerID=40&md5=37582c0bd53913b80e2fae5e68c98780
+AB  - In 2019, the California Office of Environmental Health Hazard Assessment initiated a review of the carcinogenic hazard potential of acetaminophen under Proposition 65. In conjunction with this review, a multidisciplinary team of experts with significant experience in the fields of hazard assessment, acetaminophen mechanism of action, epidemiology, and preclinical and clinical safety performed comprehensive weight of evidence reviews. The reviews evaluate multiple sources of data, including results from preclinical carcinogenicity, genotoxicity, human epidemiology, and mechanistic studies examining biochemical pathways of acetaminophen metabolism. This introductory article summarizes the comprehensive weight of evidence reviews that were performed on the carcinogenicity hazard potential of acetaminophen which are contained in 6 separate companion articles in this issue of Regulatory Toxicology & Pharmacology. Collectively, these results confirm that acetaminophen is not a carcinogenic hazard at any dose level, consistent with previous conclusions of key scientific bodies. © 2021
+KW  - Acetaminophen
+KW  - Carcinogenicity
+KW  - Epidemiology
+KW  - Genotoxicity
+KW  - Hazard assessment
+KW  - Metabolism
+KW  - Weight of evidence
+KW  - Acetaminophen
+KW  - Animals
+KW  - Carcinogenesis
+KW  - Carcinogenicity Tests
+KW  - Carcinogens
+KW  - DNA Damage
+KW  - Humans
+KW  - Mutagenicity Tests
+KW  - Mutagens
+KW  - Risk Assessment
+KW  - paracetamol
+KW  - carcinogen
+KW  - mutagenic agent
+KW  - paracetamol
+KW  - Article
+KW  - cancer risk
+KW  - carcinogenicity
+KW  - clinical evaluation
+KW  - disease course
+KW  - drug use
+KW  - genotoxicity
+KW  - hazard assessment
+KW  - human
+KW  - nonhuman
+KW  - oxidative stress
+KW  - priority journal
+KW  - risk factor
+KW  - animal
+KW  - carcinogen testing
+KW  - carcinogenesis
+KW  - DNA damage
+KW  - mutagen testing
+KW  - risk assessment
+LA  - English
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 3
+ER  -
+
+TY  - CONF
+AU  - Sorensen, T.C.
+AU  - Pilger, E.J.
+AU  - Wood, M.S.
+AU  - Gregory, E.D.
+AU  - Nunes, M.A.
+TI  - Development of the Mission Operations Support Tool (MOST)
+PY  - 2010
+T2  - SpaceOps 2010 Conference
+DO  - 10.2514/6.2010-2230
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84880930146&doi=10.2514%2f6.2010-2230&partnerID=40&md5=1598ed496fdbdbcdc1cd1e068e9a4cc3
+AB  - The Hawaii Space Flight Laboratory (HSFL) was established at the University of Hawaii at Manoa in 2007 and is developing a launch vehicle and satellites. The second HSFL launch, scheduled for 2012, is STU-2, which includes a spacecraft being designed and built by the HSFL. Control of the HSFL missions will be done in the HSFL Mission Operations Center located on the University of Hawaii campus at Manoa. HSFL, in collaboration with NASA Ames Research Center and Santa Clara University, is developing a comprehensive openarchitecture space mission operations system (COSMOS) to support this and future space missions. The major software tool of COSMOS, which is intended to provide real-time monitoring and control of spacecraft, is the Mission Operations Support Tool (MOST). This tool is based on the software tool LUNOPS which was designed for and used in support of science mission operations of the Clementine lunar mission in 1994. LUNOPS enabled the flight controllers to monitor the status of the spacecraft in accomplishing its science mission. MOST is building on this concept to allow not only monitoring of the spacecraft status, but also to provide a capability for issuing commands to the spacecraft and to be used in simulations, training and rehearsals, engineering data trending and archiving, and for anomaly resolution. The design goal for MOST is to create a single tool that can tie multiple data streams together with multiple end users. Toward this end, MOST is being designed to accept data inputs from multiple sources; while at the same time supporting multiple display configurations. On the data end, it can retrieve time stamped data records either from disk, or over established network protocols. These data can be archival, or real time; in the past, or in the future; real or simulated. MOST is capable of following data in real time, or tracking backwards and forwards in time. MOST supports one main overview screen, with summary data that is relevant to all users, plus multiple secondary screens designed for various support and subsystem tasks. The main display is always present, while the secondary screens can be displayed and dismissed at will. From the perspective of Mission Operations, this design allows each support specialty to hand tailor the display to their needs, while still maintaining access to all other information. From the perspective of monitoring and troubleshooting, the access to archival data allows studies of the interactions of different subsystems over time. MOST also provides a background monitoring mode that allows "lights-out" operation that will inform members of the operations team when an anomaly has been detected. Finally, the ability to work with simulated data allows the creation of virtual missions, for training, and support for forward looking for Mission Planning and testing. © 2010 by the American Institute of Aeronautics and Astronautics, Inc. All rights reserved.
+KW  - Computer software
+KW  - NASA
+KW  - Network protocols
+KW  - Personnel
+KW  - Spacecraft
+KW  - Tools
+KW  - Ames research centers
+KW  - Established networks
+KW  - Mission operations centers
+KW  - Multiple data streams
+KW  - Real time monitoring
+KW  - Science mission operations
+KW  - Space mission operations
+KW  - University of Hawaii
+KW  - Space flight
+LA  - English
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 4
+ER  -
+
+TY  - JOUR
+AU  - Balasubramanian, A.V.
+TI  - Emerging paradigm on traditional knowledge: Content, documentation and classical approaches to testing
+PY  - 2022
+T2  - Indian Journal of Traditional Knowledge
+VL  - 21
+IS  - 4
+SP  - 721
+EP  - 729
+DO  - 10.56042/ijtk.v21i4.68825
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142834527&doi=10.56042%2fijtk.v21i4.68825&partnerID=40&md5=94e158f3cbbb9251671cd7da1173c35d
+AB  - In any functional and dynamic society there is a continuous review of the existing knowledge, practices and technologies in varied areas. Knowledge from multiple sources including tradition, modernity and innovation and adaptation of both of these take place in a dynamic manner. In India, we have an unusual situation – on the one hand there are traditions in varied areas including specific technologies such as agriculture, medicine, textiles, metallurgy, etc. as well as theoretical sciences including mathematics, grammar, linguistics, logic, etc. that have survived for several centuries if not millennia. During the colonial period, there were knowledge systems and practices drawn from colonial sources and imposed upon our institutions that began to occupy all public spaces. This is a trend that has continued well after independence. Currently, the traditional knowledge systems occupy a very marginal place and receive very little support or resources or patronage from the state. In terms of public discourse on this matter, it is often stated explicitly or implied that choices of technology are made solely based on their scientific validity and it is on these grounds that traditional knowledge is found wanting. This article reviews some recent developments in this area – to begin with we review the nature and social organization of traditional knowledge. Then we go on to look at knowledge in the specific domains of agriculture as well as healthcare and a recent effort for the comprehensive documentation of traditional knowledge across all domains. We then look at testing and validation efforts that have taken place along traditional/classical lines. Examples are cited from the area of agriculture. It is seen that there is overwhelming evidence in favour of the validity of such knowledge. © 2022, National Institute of Science Communication and Policy Research. All rights reserved.
+KW  - Documentation
+KW  - Knowledge
+KW  - Testing
+KW  - Tradition
+KW  - Validation
+LA  - English
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Li, Z.
+AU  - Zhu, W.
+AU  - Yu, C.
+AU  - Zhang, Q.
+AU  - Yang, Y.
+TI  - Development status and trends of Imaging Geodesy
+ST  - 影像大地测量学发展现状与趋势
+PY  - 2023
+T2  - Cehui Xuebao/Acta Geodaetica et Cartographica Sinica
+VL  - 52
+IS  - 11
+SP  - 1805
+EP  - 1834
+DO  - 10.11947/J.AGCS.2023.20230003
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85180530006&doi=10.11947%2fJ.AGCS.2023.20230003&partnerID=40&md5=1bb0ce81b33662df558d569de0084b8c
+AB  - The utilization of remote sensing satellites has led to a significant increase in the use of imagery for acquiring Earth-related data. These satellites offer high observational accuracy and spatio-temporal resolutions, making them valuable tools for obtaining geodetic parameters, such as the shape and size of our planet. This advancement has not only propelled the field of Geodesy but has also given rise to a new discipline known as Imaging Geodesy. Imaging Geodesy has become an interdisciplinary science of Geodesy, Remote Sensing, Photogrammetry and Computer Vision, and has played an important role in the fields of disaster reduction, environmental protection and new energy development. In this paper, the development, definition, key technologies, main contents and development trends of Imaging Geodesy are summarized. With the development of remote sensing satellites and corresponding image processing technologies, the developmental history of Imaging Geodesy can be divided into four stages, i. e. beginning, leaping, in-depth innovation, and comprehensive application. According to the locations of its research objects, Imaging Geodesy's research contents include: observing the Earth's atmosphere, monitoring the Earth's surface, and determining the physical structure of the Earth's interior. To illustrate the practical applications of Imaging Geodesy, five scenarios are presented: generation of digital elevation models, monitoring of atmospheric water vapor, detection and monitoring of active landslides, investigation of earthquake cycles and monitoring of soil moisture. One major challenge of Imaging Geodesy is how to fuse and process the big data from multiple sources in near real time. It is believed that this paper would assist geodesy scholars in better understanding Imaging Geodesy, enabling them to integrate this emerging field into their teaching and research and to contribute to national strategies and project developments. © 2023 SinoMaps Press. All rights reserved.
+KW  - applications
+KW  - history of development
+KW  - Imaging Geodesy
+KW  - intension and extension
+KW  - major challenges
+KW  - Earth atmosphere
+KW  - Geodetic satellites
+KW  - Image processing
+KW  - Remote sensing
+KW  - Soil moisture
+KW  - Development status
+KW  - Development trends
+KW  - Geodetic parameters
+KW  - History of development
+KW  - Imaging geodesy
+KW  - Intension and extension
+KW  - Major challenge
+KW  - Remote sensing satellites
+KW  - Shape and size
+KW  - Spatio-temporal resolution
+KW  - digital elevation model
+KW  - environmental monitoring
+KW  - environmental protection
+KW  - geodesy
+KW  - image classification
+KW  - image processing
+KW  - imaging method
+KW  - remote sensing
+KW  - Geodesy
+LA  - Chinese
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Ijaz, S.
+AU  - Safdar, T.
+AU  - Sanaullah, M.
+TI  - Educational Data Mining: A Review and Analysis of Student’s Academic Performance
+PY  - 2020
+T2  - Communications in Computer and Information Science
+VL  - 1198
+SP  - 510
+EP  - 523
+DO  - 10.1007/978-981-15-5232-8_44
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85085248525&doi=10.1007%2f978-981-15-5232-8_44&partnerID=40&md5=2deaae10017c55da9659b0aec0d807fa
+AB  - Data mining is a technique for extraction of valuable patterns from multiple sources. Data mining plays an important role in marketing, electronic-commerce, business intelligent, healthcare and social network analysis. Advancement in these applications, many researchers show their interest in development of data mining applications in educational context. Educational data mining is a technique defined as a scientific area making inventions within rear types of data that derived from educational surroundings. This Paper reviews different case studies based on data mining educational systems. These systems and mining methods are considered for gathering and analysis of information. Due to huge amount of data in Educational databases, it becomes very challenging to evaluate student performance. Currently in Pakistan, there is dire need to monitor and examine student’s academic progress. There are two main causes of why existing systems were not able to analyze performance of students. First, the study on present evaluation methods is still not satisfactory to analyze the appropriate methods for evaluating the progress and performance of students in institutions of Pakistan. Second is because of absence of investigations on parameters; that effects student’s success in specific courses. Thus, a comprehensive review is proposed on evaluation of student’s performance by using techniques of Data Mining methods to progress student’s achievements. The aim of paper is to improve students’ academic performance by identifying most suitable attributes by using techniques of EDM. © 2020, Springer Nature Singapore Pte Ltd.
+KW  - Data mining
+KW  - Educational datamining
+KW  - Web mining
+KW  - Web-based educational mining
+KW  - Electronics industry
+KW  - Students
+KW  - Academic performance
+KW  - Business intelligent
+KW  - Data mining applications
+KW  - Data mining methods
+KW  - Educational context
+KW  - Educational data mining
+KW  - Educational systems
+KW  - Student performance
+KW  - Data mining
+LA  - English
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 0
+ER  -
+
+TY  - BOOK
+AU  - Spiro, R.J.
+AU  - DeSchryver, M.
+AU  - Schira Hagerman, M.
+AU  - Morsink, P.M.
+AU  - Thompson, P.
+TI  - Reading at a Crossroads?: Disjunctures and Continuities in Current Conceptions and Practices
+PY  - 2015
+T2  - Reading at a Crossroads?: Disjunctures and Continuities in Current Conceptions and Practices
+SP  - 1
+EP  - 184
+DO  - 10.4324/9780203819142
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84941585218&doi=10.4324%2f9780203819142&partnerID=40&md5=84e2448a142ce9e8897b64dee413a304
+AB  - The Internet is transforming the experience of reading and learning-through-reading. Is this transformation effecting a radical change in reading processes as readers synthesize understandings from fragments across multiple texts? Or, conversely, is the Internet merely a new place to use the same reading skills and processes developed through experience with traditional print-based media? Are the changes in reading processes a matter of degree, or are they fundamentally new? And if so, how must reading theory, research, and instruction adjust? This volume brings together distinguished experts from the fields of reading research, teacher education, educational psychology, cognitive science, rhetoric and composition, digital humanities, and educational technology to address these questions. Every question is not answered in every chapter. How could they be? But every contributor has many thoughtful things to say about a subset of these important questions. Together, they add up to a comprehensive response to the issues the field faces as it approaches what may well be-or not -a crossroads. A website devoted to extending discussion around the book in creative (and disjunctive) ways [readingatacrossroads.net] moves it beyond the printed page. © 2015 Taylor & Francis. All rights reserved.
+LA  - English
+M3  - Book
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 7
+ER  -
+
+TY  - CONF
+AU  - Nargesian, F.
+AU  - Asudeh, A.
+AU  - Jagadish, H.V.
+TI  - Tailoring data source distributions for fairness-aware data integration
+PY  - 2021
+T2  - Proceedings of the VLDB Endowment
+VL  - 14
+IS  - 11
+SP  - 2519
+EP  - 2532
+DO  - 10.14778/3476249.3476299
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85119703699&doi=10.14778%2f3476249.3476299&partnerID=40&md5=ec010e4e778f977aa1021fde1d2b0d09
+AB  - Data scientists often develop data sets for analysis by drawing upon sources of data available to them. A major challenge is to ensure that the data set used for analysis has an appropriate representation of relevant (demographic) groups: It meets desired distribution requirements. Whether data is collected through some experiment or obtained from some data provider, the data from any single source may not meet the desired distribution requirements. Therefore, a union of data from multiple sources is often required. In this paper, we study how to acquire such data in the most cost effective manner, for typical cost functions observed in practice. We present an optimal solution for binary groups when the underlying distributions of data sources are known and all data sources have equal costs. For the generic case with unequal costs, we design an approximation algorithm that performs well in practice. When the underlying distributions are unknown, we develop an exploration-exploitation based strategy with a reward function that captures the cost and approximations of group distributions in each data source. Besides theoretical analysis, we conduct comprehensive experiments that confirm the effectiveness of our algorithms. © 2021, VLDB Endowment. All rights reserved.
+KW  - Cost effectiveness
+KW  - Cost functions
+KW  - Data integration
+KW  - Cost effective
+KW  - Cost-function
+KW  - Data set
+KW  - Data-source
+KW  - Demographic groups
+KW  - Multiple source
+KW  - Optimal solutions
+KW  - Single source
+KW  - Source distribution
+KW  - Underlying distribution
+KW  - Approximation algorithms
+LA  - English
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 16
+ER  -
+
+TY  - CONF
+AU  - Sukhija, N.
+AU  - Bautista, E.
+TI  - Towards a framework for monitoring and analyzing high performance computing environments using kubernetes and prometheus
+PY  - 2019
+T2  - Proceedings - 2019 IEEE SmartWorld, Ubiquitous Intelligence and Computing, Advanced and Trusted Computing, Scalable Computing and Communications, Internet of People and Smart City Innovation, SmartWorld/UIC/ATC/SCALCOM/IOP/SCI 2019
+C7  - 9060302
+SP  - 257
+EP  - 262
+DO  - 10.1109/SmartWorld-UIC-ATC-SCALCOM-IOP-SCI.2019.00087
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85083562941&doi=10.1109%2fSmartWorld-UIC-ATC-SCALCOM-IOP-SCI.2019.00087&partnerID=40&md5=c2e7b92f2c8c961ee9b46e55542f54f6
+AB  - The challenge of monitoring a computational center grows as the center deploys larger and more diverse systems. As system size grows, it becomes harder to discern the problem from the noise. Staff often experience alert fatigue, an occurrence when so many alerts come in that the actual problem is obscured by false alarms or by alarms for issues that are symptoms of the core problem. The National Energy Research Scientific Computing Center (NERSC) at the Lawrence Berkeley National Laboratory (LBNL) has begun to address this issue by ensuring that most alerts are actionable and that multiple alerts for common problems, such as node outages, do not arise. However, more work is needed for these solutions to be extensible to emerging extreme-scale systems. In this paper, we propose a framework for proactively monitoring and managing data center operations, capable of scaling to accommodate the heterogeneity and complexity of next-generation systems. We describe a new architecture for the Operations Monitoring and Notification Infrastructure (OMNI) at NERSC that enables proactive monitoring and management at scale by integrating state-of-the-art technology, such as Kubernetes, Prometheus, Grafana, and other predictive platforms with data from metrics, sensors, and analytics engines. The system will support the operation of the upcoming Perlmutter HPC system, to be delivered in late 2020, as well as NERSC's successive computational system deployments. This comprehensive infrastructure will assist in centrally orchestrating services and deployments, automatically analyzing streaming data, correlating multiple-sourced data, and thresholding alerts to identify core issues from a single view. © 2019 IEEE.
+KW  - Data monitoring
+KW  - Grafana
+KW  - HPC
+KW  - Kubernetes
+KW  - Predictive
+KW  - Prometheus
+KW  - Visualization
+KW  - Predictive analytics
+KW  - Smart city
+KW  - Trusted computing
+KW  - Ubiquitous computing
+KW  - Computational system
+KW  - Data center operations
+KW  - Energy research
+KW  - High performance computing
+KW  - Lawrence Berkeley National Laboratory
+KW  - Next generation systems
+KW  - Proactive Monitoring
+KW  - State-of-the-art technology
+KW  - Information management
+LA  - English
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 27
+ER  -
+
+TY  - JOUR
+AU  - Kumar, Y.J.
+AU  - Salim, N.
+TI  - Automatic multi document summarization approaches
+PY  - 2012
+T2  - Journal of Computer Science
+VL  - 8
+IS  - 1
+SP  - 133
+EP  - 140
+DO  - 10.3844/jcssp.2012.133.140
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-82055165080&doi=10.3844%2fjcssp.2012.133.140&partnerID=40&md5=611850bd317d02c6cead5c6a2d3a68a4
+AB  - Problem statement: Text summarization can be of different nature ranging from indicative summary that identifies the topics of the document to informative summary which is meant to represent the concise description of the original document, providing an idea of what the whole content of document is all about. Approach: Single document summary seems to capture both the information well but it has not been the case for multi document summary where the overall comprehensive quality in presenting informative summary often lacks. It is found that most of the existing methods tend to focus on sentence scoring and less consideration is given to the contextual information content in multiple documents. Results: In this study, some survey on multi document summarization approaches has been presented. We will direct our focus notably on four well known approaches to multi document summarization namely the feature based method, cluster based method, graph based method and knowledge based method. The general ideas behind these methods have been described. Conclusion: Besides the general idea and concept, we discuss the benefits and limitations concerning these methods. With the aim of enhancing multi document summarization, specifically news documents, a novel type of approach is outlined to be developed in the future, taking into account the generic components of a news story in order to generate a better summary. © 2012 Science Publications.
+KW  - Extractive summarization
+KW  - Generic components
+KW  - Multi document summarization
+KW  - News documents
+KW  - Novel text summarization approaches
+KW  - Ontology learning
+KW  - Summarization approaches
+LA  - English
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 45
+ER  -
+
+TY  - JOUR
+AU  - Bartels, B.
+AU  - Habets, L.E.
+AU  - Stam, M.
+AU  - Wadman, R.I.
+AU  - Wijngaarde, C.A.
+AU  - Schoenmakers, M.A.G.C.
+AU  - Takken, T.
+AU  - Hulzebos, E.H.J.
+AU  - Van Der Pol, W.L.
+AU  - De Groot, J.F.
+TI  - Assessment of fatigability in patients with spinal muscular atrophy: Development and content validity of a set of endurance tests
+PY  - 2019
+T2  - BMC Neurology
+VL  - 19
+IS  - 1
+C7  - 21
+DO  - 10.1186/s12883-019-1244-3
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061252996&doi=10.1186%2fs12883-019-1244-3&partnerID=40&md5=de094f315c365694160a9830c152b3d3
+AB  - Background: Fatigability has emerged as an important dimension of physical impairment in patients with Spinal Muscular Atrophy (SMA). At present reliable and valid outcome measures for both mildly and severely affected patients are lacking. Therefore the primary aim of this study is the development of clinical outcome measures for fatigability in patients with SMA across the range of severity. Methods: We developed a set of endurance tests using five methodological steps as recommended by the 'COnsensus-based Standards for the selection of health Measurement INstruments (COSMIN). In this iterative process, data from multiple sources were triangulated including a scoping review of scientific literature, input from a scientific and clinical multidisciplinary expert panel and three pilot studies including healthy persons (N = 9), paediatric patients with chronic disorders (N = 10) and patients with SMA (N = 15). Results: Fatigability in SMA was operationalised as the decline in physical performance. The following test criteria were established; one method of testing for patients with SMA type 2-4, a set of outcome measures that mimic daily life activities, a submaximal test protocol of repetitive activities over a longer period; external regulation of pace. The scoping review did not generate suitable outcome measures. We therefore adapted the Endurance Shuttle Walk Test for ambulatory patients and developed the Endurance Shuttle Box and Block Test and the - Nine Hole Peg Test for fatigability testing of proximal and distal arm function. Content validity was established through input from experts and patients. Pilot testing showed that the set of endurance tests are comprehensible, feasible and meet all predefined test criteria. Conclusions: The development of this comprehensive set of endurance tests is a pivotal step to address fatigability in patients with SMA. © 2019 The Author(s).
+KW  - Endurance
+KW  - Fatigability
+KW  - Outcome measure
+KW  - Spinal muscular atrophy
+KW  - Adult
+KW  - Child
+KW  - Child, Preschool
+KW  - Exercise Test
+KW  - Fatigue
+KW  - Female
+KW  - Humans
+KW  - Male
+KW  - Muscular Atrophy, Spinal
+KW  - Outcome Assessment (Health Care)
+KW  - Physical Endurance
+KW  - Pilot Projects
+KW  - adult
+KW  - arm
+KW  - arm movement
+KW  - Article
+KW  - chronic disease
+KW  - clinical article
+KW  - clinical outcome
+KW  - clinical protocol
+KW  - consensus
+KW  - Consensus based Standards for the selection of Health Measurement Instrument
+KW  - content validity
+KW  - controlled study
+KW  - daily life activity
+KW  - disease association
+KW  - disease severity
+KW  - distal arm
+KW  - endurance
+KW  - Endurance Shuttle Box and Block Test
+KW  - endurance shuttle walk test
+KW  - exercise test
+KW  - expert system
+KW  - fatigue
+KW  - feasibility study
+KW  - female
+KW  - human
+KW  - Kugelberg Welander disease
+KW  - male
+KW  - methodology
+KW  - Nine Hole Peg Test
+KW  - pediatrics
+KW  - physical performance
+KW  - pilot study
+KW  - practice guideline
+KW  - proximal arm
+KW  - reliability
+KW  - repetitive activity
+KW  - science
+KW  - scientific literature
+KW  - spinal muscular atrophy
+KW  - spinal muscular atrophy type 2
+KW  - spinal muscular atrophy type 4
+KW  - standard
+KW  - child
+KW  - complication
+KW  - exercise test
+KW  - fatigue
+KW  - outcome assessment
+KW  - preschool child
+KW  - procedures
+KW  - spinal muscular atrophy
+KW  - standards
+KW  - validation study
+LA  - English
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 26
+ER  -
+
+TY  - JOUR
+AU  - Topaj, A.G.
+AU  - Tarovik, O.V.
+AU  - Bakharev, A.A.
+TI  - AUTOMATIC ROUTING OF VESSELS IN ICE: PROBLEM STATEMENT AND SOLUTION TOOLS
+PY  - 2022
+T2  - Arktika: Ekologia i Ekonomika
+VL  - 12
+IS  - 1
+SP  - 123
+EP  - 139
+DO  - 10.25283/2223-4594-2022-1-123-139
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85131548247&doi=10.25283%2f2223-4594-2022-1-123-139&partnerID=40&md5=503a3f806c58d2abc77e83c1db72ec37
+AB  - Development of the applied solutions to optimize ship path in dynamic ice environment is one of the urgent problems due to the ongoing growth of Arctic shipping. Ice routing makes it possible to increase the efficiency of sea transportation, reduce the risks of ship operation in ice, and minimize the negative anthropogenic impact on the atmosphere. This article describes in a concentrated form the authors’ experience in this area and presents Boreas, the developed research software application for automatic ice routing. Mathematical formulation of ice routing task is based on a universal economic criterion that allows optimizing not only a trajectory, but also the amount of icebreaker assistance, ship operation modes (astern or bow forward), and some other aspects of ice navigation. Functionality and architecture of the Boreas software allow carrying out various studies in the field of ice routing. The application supports alternative ice data sources and various speed regimes of a ship. It allows using different search algorithms (grid, wave-based, and combined) and considers numerous navigation features (predefined fairways, navigation depths, and restricted areas). As an example of using the Boreas software, we compared the route of Norilskiy Nickel containership from Dudinka to Murmansk on March 19-22, 2018 with several automatically generated routes for various speed regimes. Based on our experience and the results of this study, we can state that the development of applied solutions for Arctic routing is significantly complicated by multiple sources of uncertainty and requires further research. The article formulates a list of scientific and technical problems that need to be solved for the comprehensive understanding and further implementation of ice routing technologies in the practice of ship navigation in the Arctic. © 2022, Nuclear Safety Institute of the Russian Academy of Sciences. All rights reserved.
+KW  - Arctic shipping
+KW  - Ice performance of ships
+KW  - Ice routing
+KW  - Operations research
+KW  - Software
+LA  - Russian
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Burns, J.
+AU  - Boogaard, H.
+AU  - Polus, S.
+AU  - Pfadenhauer, L.M.
+AU  - Rohwer, A.C.
+AU  - Van Erp, A.M.
+AU  - Turley, R.
+AU  - Rehfuess, E.
+TI  - Interventions to reduce ambient particulatematter air pollution and their effect on health
+PY  - 2019
+T2  - Cochrane Database of Systematic Reviews
+VL  - 2019
+IS  - 5
+C7  - CD010919
+DO  - 10.1002/14651858.CD010919.pub2
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85066826359&doi=10.1002%2f14651858.CD010919.pub2&partnerID=40&md5=d9d05959c12bb39dcab60141e498322d
+AB  - Background Ambient air pollution is associated with a large burden of disease in both high-income countries (HICs) and low- and middle-income countries (LMICs). To date, no systematic review has assessed the effectiveness of interventions aiming to reduce ambient air pollution. Objectives To assess the effectiveness of interventions to reduce ambient particulate matter air pollution in reducing pollutant concentrations and improving associated health outcomes. Search methods We searched a range of electronic databases with diverse focuses, including health and biomedical research (CENTRAL, Cochrane Public Health Group Specialised Register, MEDLINE, Embase, PsycINFO), multidisciplinary research (Scopus, Science Citation Index), social sciences (Social Science Citation Index), urban planning and environment (Greenfile), and LMICs (GlobalHealth Library regional indexes, WHOLIS). Additionally, we searched grey literature databases, multiple online trial registries, references of included studies and the contents of relevant journals in an attempt to identify unpublished and ongoing studies, and studies not identified by our search strategy. The final search date for all databases was 31 August 2016. Selection criteria Eligible for inclusion were randomized and cluster randomized controlled trials, as well as several non-randomized study designs, including controlled interrupted time-series studies (cITS-EPOC), interrupted time-series studies adhering to EPOC standards (ITSEPOC), interrupted time-series studies not adhering to EPOC standards (ITS), controlled before-after studies adhering to EPOC standards (CBA-EPOC), and controlled before-after studies not adhering to EPOC standards (CBA); these were classified as main studies. Additionally, we included uncontrolled before-after studies (UBA) as supporting studies. We included studies that evaluated interventions to reduce ambient air pollution from industrial, residential, vehicular and multiple sources, with respect to their effect on mortality,morbidity and several air pollutant concentrations.We did not restrict studies based on the population, setting or comparison. Data collection and analysis After a calibration exercise among the author team, two authors independently assessed studies for inclusion, extracted data and assessed risk of bias. We conducted data extraction, risk of bias assessment and evidence synthesis only for main studies; we mapped supporting studies with regard to the types of intervention and setting. To assess risk of bias, we used theGraphic Appraisal Tool for Epidemiological studies (GATE) for correlation studies, as modified and employed by the Centre for Public Health Excellence at the UK National Institute for Health and Care Excellence (NICE). For each intervention category, i.e. those targeting industrial, residential, vehicular and multiple sources, we synthesized evidence narratively, as well as graphically using harvest plots. Main results We included 42 main studies assessing 38 unique interventions. These were heterogeneous with respect to setting; interventions were implemented in countries across the world, but most (79%) were implemented in HICs, with the remaining scattered across LMICs. Most interventions (76%) were implemented in urban or community settings. We identified a heterogeneous mix of interventions, including those aiming to address industrial (n = 5), residential (n = 7), vehicular (n = 22), and multiple sources (n = 4). Some specific interventions, such as low emission zones and stove exchanges, were assessed by several studies, whereas others, such as a wood burning ban, were only assessed by a single study. Most studies assessing health and air quality outcomes used routine monitoring data. Studies assessing health outcomes mostly investigated effects in the general population, while few studies assessed specific subgroups such as infants, children and the elderly. No identified studies assessed unintended or adverse effects. The judgements regarding the risk of bias of studies were mixed. Regarding health outcomes, we appraised eight studies (47%) as having no substantial risk of bias concerns, five studies (29%) as having some risk of bias concerns, and four studies (24%) as having serious risk of bias concerns. Regarding air quality outcomes, we judged 11 studies (31%) as having no substantial risk of bias concerns, 16 studies (46%) as having some risk of bias concerns, and eight studies (23%) as having serious risk of bias concerns. The evidence base, comprising non-randomized studies only, was of low or very low certainty for all intervention categories and primary outcomes. The narrative and graphical synthesis showed that evidence for effectiveness was mixed across the four intervention categories. For interventions targeting industrial, residential and multiple sources, a similar pattern emerged for both health and air quality outcomes, with essentially all studies observing either no clear association in either direction or a significant association favouring the intervention. The evidence base for interventions targeting vehicular sources was more heterogeneous, as a small number of studies did observe a significant association favouring the control. Overall, however, the evidence suggests that the assessed interventions do not worsen air quality or health. Authors’ conclusions Given the heterogeneity across interventions, outcomes, and methods, it was difficult to derive overall conclusions regarding the effectiveness of interventions in terms of improved air quality or health.Most included studies observed either no significant association in either direction or an association favouring the intervention, with little evidence that the assessed interventions might be harmful. The evidence base highlights the challenges related to establishing a causal relationship between specific air pollution interventions and outcomes. In light of these challenges, the results on effectiveness should be interpreted with caution; it is important to emphasize that lack of evidence of an association is not equivalent to evidence of no association. We identified limited evidence for several world regions, notably Africa, the Middle East, Eastern Europe, Central Asia and Southeast Asia; decision-makers should prioritize the development and implementation of interventions in these settings. In the future, as new policies are introduced, decision-makers should consider a built-in evaluation component, which could facilitate more systematic and comprehensive evaluations. These could assess effectiveness, but also aspects of feasibility, fidelity and acceptability. The production of higher quality and more uniform evidence would be helpful in informing decisions. Researchers should strive to sufficiently account for confounding, assess the impact of methodological decisions through the conduct and communication of sensitivity analyses, and improve the reporting of methods, and other aspects of the study, most importantly the description of the intervention and the context in which it is implemented. © 2019 The Cochrane Collaboration.
+KW  - Air Pollution
+KW  - Health Status
+KW  - Humans
+KW  - Interrupted Time Series Analysis
+KW  - Particulate Matter
+KW  - Randomized Controlled Trials as Topic
+KW  - black carbon
+KW  - carbon monoxide
+KW  - nitrogen dioxide
+KW  - sulfur dioxide
+KW  - air pollution
+KW  - air quality
+KW  - cardiovascular disease
+KW  - cardiovascular mortality
+KW  - cause of death
+KW  - combustion
+KW  - concentration (parameter)
+KW  - cooking
+KW  - decision making
+KW  - domestic waste
+KW  - environmental exposure
+KW  - environmental policy
+KW  - exhaust gas
+KW  - health hazard
+KW  - heating
+KW  - high income country
+KW  - industrial waste
+KW  - particulate matter
+KW  - priority journal
+KW  - respiratory tract disease
+KW  - Review
+KW  - systematic review
+KW  - air pollution
+KW  - epidemiology
+KW  - health status
+KW  - human
+KW  - particulate matter
+KW  - prevention and control
+KW  - randomized controlled trial (topic)
+LA  - English
+M3  - Review
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 20
+ER  -
+
+TY  - JOUR
+AU  - Li, H.
+AU  - He, S.
+AU  - Min, Q.
+AU  - Zhu, H.
+AU  - Wu, L.
+TI  - Evaluation of the Xinghua Duotian Traditional Agrosystem in Jiangsu Province based on the evaluation methods of the Important Agricultural Heritage Systems
+ST  - 重要农业文化遗产价值体系构建及评估(Ⅱ): 江苏兴化垛田传统农业系统价值评估
+PY  - 2020
+T2  - Chinese Journal of Eco-Agriculture
+VL  - 28
+IS  - 9
+SP  - 1370
+EP  - 1381
+DO  - 10.13930/j.cnki.cjea.190882
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85090656284&doi=10.13930%2fj.cnki.cjea.190882&partnerID=40&md5=cb3590793a64a5a90e95a20ac9c87e62
+AB  - Effective management of Important Agricultural Heritage Systems (IAHS) hinges on a comprehensive understanding of their complexity, reflected in multiple values. These values include, but are not limited to, ecological, social, and cultural values, thus entailing an integrated value typology and possible quantitative evaluation approaches, focusing on the complex and dynamic agro-systems with strategic significance to human development. It is necessary to apply this value typology to specific cases so that certain evaluation indices can be proposed and valuation methods tested to confirm their practical feasibility, and to identify any gaps between theory and practice. With this in mind, and for a better understanding of the multiple functions of the Xinghua Duotian Traditional Agro-system (XDTA) in Jiangsu Province, a Globally Important Agricultural Heritage System (GIAHS), this research assessed its values according to the value typology. For the first time, the value of a GIAHS site was assessed, and as a second part of the two-part series of value typology and evaluation of IAHS, this paper presented a core value distribution in order to promote multi-stakeholder participation in conservation and development of the heritage site. Based on the constructed value system of the IAHS, this paper selected indices relevant to the land use and ecosystems of the XDTA, and collected data from multiple sources including the literature, statistical yearbooks, and social survey. The existence value of this GIAHS in 2016 was assessed following appropriate calculation approaches based on previously proposed evaluation methods, which covered a direct market approach, alternative market approach, and simulated market approach. Most of these approaches were widely used and proved feasible in the evaluation of natural resources and ecosystem services. The results showed that the total value of XDTA in 2016 was 68.581 billion RMB Yuan, of which the carrier value was 36.309 billion RMB Yuan and the service value was 32.272 billion RMB Yuan. For the service value, the brand value was 11.174 billion RMB Yuan, the ecological value was 10.240 billion RMB Yuan, the product value was 7.257 billion RMB Yuan, and the value of science, technology, society, aesthetics, culture, history, and spirit summed up to 3.600 billion RMB Yuan. Therefore, as a GIAHS, XDTA is a multi-type value carrier, the value system of which can reflect the multiple functions and global significance of GIAHS. Carrier value is the base for other product and service values, and a wide range of ecological values and outstanding brand values were also identified. These results could be regarded as basis for targeted conservation and brand value promotion for local governors. The research process and the aforementioned results indicate that the proposed value typology system is applicable to certain heritage sites, with their specific features reflected and evaluated by carefully selected indices and a combination of evaluation approaches. Value composition and distribution can be manifested to support targeted conservation management and to further integrate protected area management. However, more accurate evaluation is highly dependent on the selection of indices and their evaluation, which is achievable by deeper research into the explanation and quantification of non-materialistic values. Through index system optimization and dynamic monitoring of heritage sites, it is possible to generate a consistent value database to assist in the sustainable management of the heritage. © 2020, Science Press. All right reserved.
+KW  - Globally Important Agricultural Heritage Systems (GIAHS)
+KW  - Important Agricultural Heritage Systems (IAHS)
+KW  - Natural protected area system
+KW  - Value evaluation
+KW  - Xinghua Duotian Traditional Agrosystem in Jiangsu Province
+LA  - Chinese
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 3
+ER  -
+
+TY  - JOUR
+AU  - Pham, B.
+AU  - Krahn, M.
+TI  - End-of-life care interventions: An economic analysis
+PY  - 2014
+T2  - Ontario Health Technology Assessment Series
+VL  - 14
+IS  - 18
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-84953350980&partnerID=40&md5=8cf129f7afdc9ca81e9180ce37990b88
+AB  - Background: The annual cost of providing care for patients in their last year of life is estimated to account for approximately 9% of the Ontario health care budget. Access to integrated, comprehensive support and pain/symptom management appears to be inadequate and inequitable.Objective: To evaluate the cost-effectiveness of end-of-life (EoL) care interventions included in the EoL care mega-analysis.Data Sources: Multiple sources were used, including systematic reviews, linked health administration databases, survey data, planning documents, expert input, and additional literature searches.Review Methods: We conducted a literature review of cost-effectiveness studies to inform the primary economic analysis. We conducted the primary economic analysis and budget impact analysis for an Ontario cohort of decedents and their families and included interventions pertaining to team-based models of care, patient care planning discussions, educational interventions for patients and caregivers, and supportive interventions for informal caregivers. The time horizon was the last year of life. Costs were in 2013 Canadian dollars. Effectiveness measures included days at home, percentage dying at home, and quality-adjusted life-days. We developed a Markov model; model inputs were obtained from a cohort of Ontario decedents assembled from Institute for Clinical Evaluative Sciences databases and published literature.Results: In-home palliative team care was cost-effective; it increased the chance of dying at home by 10%, increased the average number of days at home (6 days) and quality-adjusted life-days (0.5 days), and it reduced costs by approximately $4,400 per patient. Expanding in-home palliative team care to those currently not receiving such services (approximately 45,000 per year, at an annual cost of $76–108 million) is likely to improve quality of life, reduce the use of acute care resources, and save $191–$385 million in health care costs. Results for the other interventions were uncertain.Limitations: The cost-effectiveness analysis was based in part on the notion that resources allocated to EoL care interventions were designed to maximize quality-adjusted life-years (QALY) for patients and their family, but improving QALYs may not be the intended aim of EoL interventions.Conclusions: In-home palliative team care was cost-effective, but firm conclusions about the cost-effectiveness of other interventions were not possible. © Queen’s Printer for Ontario, 2014.
+KW  - Cost Savings
+KW  - Cost-Benefit Analysis
+KW  - Health Care Costs
+KW  - Home Care Services
+KW  - Humans
+KW  - Ontario
+KW  - Palliative Care
+KW  - Patient Care Planning
+KW  - Quality of Life
+KW  - Terminal Care
+KW  - Article
+KW  - Canada
+KW  - cost control
+KW  - cost effectiveness analysis
+KW  - health care cost
+KW  - health care planning
+KW  - health care quality
+KW  - health care utilization
+KW  - health promotion
+KW  - home care
+KW  - human
+KW  - intensive care
+KW  - mortality rate
+KW  - palliative therapy
+KW  - patient education
+KW  - quality adjusted life year
+KW  - cost benefit analysis
+KW  - economics
+KW  - health care cost
+KW  - Ontario
+KW  - patient care planning
+KW  - procedures
+KW  - quality of life
+KW  - terminal care
+LA  - English
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 30
+ER  -
+
+TY  - BOOK
+AU  - Wimberly, M.C.
+TI  - Geographic Data Science with R: Visualizing and Analyzing Environmental Change
+PY  - 2023
+T2  - Geographic Data Science with R: Visualizing and Analyzing Environmental Change
+SP  - 1
+EP  - 283
+DO  - 10.1201/9781003326199
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85167720320&doi=10.1201%2f9781003326199&partnerID=40&md5=e603d3ce69bccd81e31cb331d1c98b5f
+AB  - The burgeoning field of data science has provided a wealth of techniques for analysing large and complex geospatial datasets, including descriptive, explanatory, and predictive analytics. However, applying these methods is just one part of the overall process of geographic data science. Other critical steps include screening for suspect data values, handling missing data, harmonizing data from multiple sources, summarizing the data, and visualizing data and analysis results. Although there are many books available on statistical and machine learning methods, few encompass the broader topic of scientific workflows for geospatial data processing and analysis. The purpose of Geographic Data Science with R is to fill this gap by providing a series of tutorials aimed at teaching good practices for using geospatial data to address problems in environmental geography. It is based on the R language and environment, which currently provides the best option for working with diverse spatial and non-spatial data in a single platform. Fundamental techniques for processing and visualizing tabular, vector, and raster data are introduced through a series of practical examples followed by case studies that combine multiple types of data to address more complex problems. The book will have a broad audience. Both students and professionals can use it as a workbook to learn high-level techniques for geospatial data processing and analysis with R. It is also suitable as a textbook. Although not intended to provide a comprehensive introduction to R, it is designed to be accessible to readers who have at least some knowledge of coding but little to no experience with R. Key Features: Focus on developing practical workflows for processing and integrating multiple sources of geospatial data in R Example-based approach that teaches R programming and data science concepts through real-world applications related to climate, land cover and land use, and natural hazards. Consistent use of tidyverse packages for tabular data manipulation and visualization. Strong focus on analysing continuous and categorical raster datasets using the new terra package Organized so that each chapter builds on the topics and techniques covered in the preceding chapters Can be used for self-study or as the textbook for a geospatial science course. © 2023 Michael C. Wimberly.
+LA  - English
+M3  - Book
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Calonge, N.
+AU  - Shekelle, P.G.
+AU  - Owens, D.K.
+AU  - Teutsch, S.
+AU  - Downey, A.
+AU  - Brown, L.
+AU  - Noyes, J.
+TI  - A framework for synthesizing intervention evidence from multiple sources into a single certainty of evidence rating: Methodological developments from a US National Academies of Sciences, Engineering, and Medicine Committee
+PY  - 2023
+T2  - Research Synthesis Methods
+VL  - 14
+IS  - 1
+SP  - 36
+EP  - 51
+DO  - 10.1002/jrsm.1582
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85133392126&doi=10.1002%2fjrsm.1582&partnerID=40&md5=69bb7df3f53024633bddf75e597549eb
+AB  - Despite research investment and a growing body of diverse evidence there has been no comprehensive review and grading of evidence for public health emergency preparedness and response practices comparable to those in medicine and other public health fields. The National Academies of Sciences, Engineering, and Medicine convened an ad hoc committee to develop and use methods for grading and synthesizing diverse types of evidence to create a single certainty of intervention-related evidence to support recommendations for Public Health Emergency Preparedness and Response Research. A 13-step consensus building method was used. Experts were first canvassed in public meetings, and a comprehensive review of existing methods was undertaken. Although aspects of existing review methodologies and evidence grading systems were relevant, none adequately covered all requirements for this specific context. Starting with a desire to synthesize diverse sources of evidence not usually included in systematic reviews and using GRADE for assessing certainty and confidence in quantitative and qualitative evidence as the foundation, we developed a mixed-methods synthesis review and grading methodology that drew on (and in some cases adapted) those elements of existing frameworks and methods that were most applicable. Four topics were selected as test cases. The process was operationalized with a suite of method-specific reviews of diverse evidence types for each topic. Further consensus building was undertaken through stakeholder engagement and feedback The NASEM committee's GRADE adaption for mixed-methods reviews will further evolve over time and has yet to be endorsed by the GRADE working group. © 2022 The Authors. Research Synthesis Methods published by John Wiley & Sons Ltd.
+KW  - evidence synthesis
+KW  - GRADE
+KW  - GRADE CERQυal
+KW  - mixed-methods
+KW  - systematic review
+KW  - Evidence-Based Medicine
+KW  - Public Health
+KW  - Systematic Reviews as Topic
+KW  - evidence based medicine
+KW  - public health
+LA  - English
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Pang, Y.
+AU  - Li, Y.
+AU  - Feng, Z.
+AU  - Feng, Z.
+AU  - Zhao, Z.
+AU  - Chen, S.
+AU  - Zhang, H.
+TI  - Forest Fire Occurrence Prediction in China Based on Machine Learning Methods
+PY  - 2022
+T2  - Remote Sensing
+VL  - 14
+IS  - 21
+C7  - 5546
+DO  - 10.3390/rs14215546
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85141881296&doi=10.3390%2frs14215546&partnerID=40&md5=d82ff40fd3afcbaa7a9fd9c26e703f41
+AB  - Forest fires may have devastating consequences for the environment and for human lives. The prediction of forest fires is vital for preventing their occurrence. Currently, there are fewer studies on the prediction of forest fires over longer time scales in China. This is due to the difficulty of forecasting forest fires. There are many factors that have an impact on the occurrence of forest fires. The specific contribution of each factor to the occurrence of forest fires is not clear when using conventional analyses. In this study, we leveraged the excellent performance of artificial intelligence algorithms in fusing data from multiple sources (e.g., fire hotspots, meteorological conditions, terrain, vegetation, and socioeconomic data collected from 2003 to 2016). We have tested several algorithms and, finally, four algorithms were selected for formal data processing. There were an artificial neural network, a radial basis function network, a support-vector machine, and a random forest to identify thirteen major drivers of forest fires in China. The models were evaluated using the five performance indicators of accuracy, precision, recall, f1 value, and area under the curve. We obtained the probability of forest fire occurrence in each province of China using the optimal model. Moreover, the spatial distribution of high-to-low forest fire-prone areas was mapped. The results showed that the prediction accuracies of the four forest fire prediction models were between 75.8% and 89.2%, and the area under the curve (AUC) values were between 0.840 and 0.960. The random forest model had the highest accuracy (89.2%) and AUC value (0.96). It was determined as the best performance model in this study. The prediction results indicate that the areas with high incidences of forest fires are mainly concentrated in north-eastern China (Heilongjiang Province and northern Inner Mongolia Autonomous Region) and south-eastern China (including Fujian Province and Jiangxi Province). In areas at high risk of forest fire, management departments should improve forest fire prevention and control by establishing watch towers and using other monitoring equipment. This study helped in understanding the main drivers of forest fires in China over the period between 2003 and 2016, and determined the best performance model. The spatial distribution of high-to-low forest fire-prone areas maps were produced in order to depict the comprehensive views of China’s forest fire risks in each province. They were expected to form a scientific basis for helping the decision-making of China’s forest fire prevention authorities. © 2022 by the authors.
+KW  - feature selection
+KW  - forest fire driving factors
+KW  - forest fire occurrence
+KW  - machine learning
+KW  - prediction model
+KW  - Data handling
+KW  - Decision trees
+KW  - Deforestation
+KW  - Feature extraction
+KW  - Fire hazards
+KW  - Fires
+KW  - Radial basis function networks
+KW  - Random forests
+KW  - Spatial distribution
+KW  - Support vector machines
+KW  - Areas under the curves
+KW  - Driving factors
+KW  - Features selection
+KW  - Fire occurrences
+KW  - Forest fire driving factor
+KW  - Forest fire occurrence
+KW  - Forest fires
+KW  - Machine-learning
+KW  - Prediction modelling
+KW  - Forecasting
+LA  - English
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 16
+ER  -
+
+TY  - JOUR
+AU  - Pantziarka, P.
+AU  - Capistrano I, R.
+AU  - De Potter, A.
+AU  - Vandeborne, L.
+AU  - Bouche, G.
+TI  - An Open Access Database of Licensed Cancer Drugs
+PY  - 2021
+T2  - Frontiers in Pharmacology
+VL  - 12
+C7  - 627574
+DO  - 10.3389/fphar.2021.627574
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85103105233&doi=10.3389%2ffphar.2021.627574&partnerID=40&md5=aee69835b2653da1212b74562975cf24
+AB  - A global, comprehensive and open access listing of approved anticancer drugs does not currently exist. Partial information is available from multiple sources, including regulatory authorities, national formularies and scientific agencies. Many such data sources include drugs used in oncology for supportive care, diagnostic or other non-antineoplastic uses. We describe a methodology to combine and cleanse relevant data from multiple sources to produce an open access database of drugs licensed specifically for therapeutic antineoplastic purposes. The resulting list is provided as an open access database, (http://www.redo-project.org/cancer-drugs-db/), so that it may be used by researchers as input for further research projects, for example literature-based text mining for drug repurposing. © Copyright © 2021 Pantziarka, Capistrano I, De Potter, Vandeborne and Bouche.
+KW  - antineoplastic drugs
+KW  - database
+KW  - drug licensing
+KW  - drug repurposing
+KW  - licensed drugs
+KW  - list of cancer drugs
+KW  - antineoplastic agent
+KW  - cyclophosphamide
+KW  - doxorubicin
+KW  - nivolumab
+KW  - paclitaxel
+KW  - access to information
+KW  - Article
+KW  - data mining
+KW  - drug database
+KW  - drug dosage form
+KW  - drug formulation
+KW  - drug indication
+KW  - drug repositioning
+KW  - information dissemination
+KW  - licence
+KW  - publication
+LA  - English
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 16
+ER  -
+
+TY  - JOUR
+AU  - Dantas, R.
+AU  - Fleck, D.
+TI  - Challenges in identifying studies to include in a systematic literature review: an analysis of the organizational growth and decline topics
+PY  - 2023
+T2  - Global Knowledge, Memory and Communication
+DO  - 10.1108/GKMC-03-2023-0098
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85165007137&doi=10.1108%2fGKMC-03-2023-0098&partnerID=40&md5=57939ba7465d1c287cb84230b5d83775
+AB  - Purpose: This paper aims to check the fragmentation of knowledge across multiple sources of evidence, identifying, scrutinizing and outlining suggestions concerning the challenges researchers face when using multiple sources of data to identify studies. Design/methodology/approach: This study produced a comprehensive database of 15,848 items from Scopus, Web of Science and EBSCO on the organizational growth and decline topics. The analyses carried out to check the fragmentation of scientific knowledge and the challenges in identifying studies have made use of the basic data frame functions in R’s language and the Bibliometrix and Corpus R’s packages. Findings: This study confirms the fragmentation of scientific knowledge as well as it identifies the following challenges: missing information in key fields, nonexistence of standards in terminology, limitations on data extraction, duplicates and multiple formats of cited reference. Additionally, it suggests practical coping procedures and advances implications for stakeholders and an agenda for future research. Originality/value: This study provides valuable and practical examples with empirical confirmation of scientific knowledge fragmentation and offers an integrated view of many challenges in the process of identifying studies. Moreover, by offering suggestions to address these challenges, this study not only offers a practical guide to scientific researchers but also initiates a wider discussion regarding knowledge organizing in social sciences. © 2023, Emerald Publishing Limited.
+KW  - Comprehensive search
+KW  - Controlled indexing vocabulary
+KW  - Keywords classification
+KW  - Knowledge fragmentation
+KW  - Organizational growth and decline
+KW  - Systematic literature reviews
+LA  - English
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Zhang, X.
+AU  - Zhao, G.
+TI  - Taking a Closed-Book Examination: Decoupling KB-Based Inference by Virtual Hypothesis for Answering Real-World Questions
+PY  - 2021
+T2  - Computational Intelligence and Neuroscience
+VL  - 2021
+C7  - 6689740
+DO  - 10.1155/2021/6689740
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85102278096&doi=10.1155%2f2021%2f6689740&partnerID=40&md5=d30a19bb1b719cbf7d81ef5d025f627e
+AB  - Complex question answering in real world is a comprehensive and challenging task due to its demand for deeper question understanding and deeper inference. Information retrieval is a common solution and easy to implement, but it cannot answer questions which need long-distance dependencies across multiple documents. Knowledge base (KB) organizes information as a graph, and KB-based inference can employ logic formulas or knowledge embeddings to capture such long-distance semantic associations. However, KB-based inference has not been applied to real-world question answering well, because there are gaps among natural language, complex semantic structure, and appropriate hypothesis for inference. We propose decoupling KB-based inference by transforming a question into a high-level triplet in the KB, which makes it possible to apply KB-based inference methods to answer complex questions. In addition, we create a specialized question answering dataset only for inference, and our method is proved to be effective by conducting experiments on both AI2 Science Questions dataset and ours.  © 2021 Xiao Zhang and Guorui Zhao.
+KW  - Information Storage and Retrieval
+KW  - Knowledge Bases
+KW  - Semantics
+KW  - E-learning
+KW  - Knowledge based systems
+KW  - Semantics
+KW  - Complex semantic structures
+KW  - Inference methods
+KW  - Long-distance dependencies
+KW  - Multiple documents
+KW  - Natural languages
+KW  - Question Answering
+KW  - Semantic associations
+KW  - Virtual hypothesis
+KW  - information retrieval
+KW  - knowledge base
+KW  - semantics
+KW  - Natural language processing systems
+LA  - English
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 0
+ER  -
+
+TY  - CONF
+AU  - Salem, Z.
+AU  - Lichtenegger, F.
+AU  - Weiss, A.P.
+AU  - Leiner, C.
+AU  - Sommer, C.
+AU  - Wenzl, F.P.
+TI  - Human activity recognition based on fusing inertial sensors with an optical receiver
+PY  - 2022
+T2  - Proceedings of SPIE - The International Society for Optical Engineering
+VL  - 12139
+C7  - 1213906
+DO  - 10.1117/12.2621187
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85132899950&doi=10.1117%2f12.2621187&partnerID=40&md5=c22bf13b6910218691e5c7eb62071f0c
+AB  - The research on Human Activity Recognition (HAR) systems has received high attention due to its importance in high demanding and challenging fields of study such as health care, social science, robotics and artificial intelligence. One of the most prominent approaches is to use Inertial Measurement Unit (IMU) sensors in order to determine what activity a human is making. If complex activities such as sit-down, stand-up, walk-up and walk-down are needed to be recognized, the user needs to wear multiple sensors on his/her body to perform a correct recognition. Such activity recognition will be of high interest if the object's position is also recognized. For recognizing the activity and location properly, a decent fusion technique between the multiple sources of information is required. In this study, we propose a novel positioning and HAR system based on fusing data from a single IMU device with data from a simulated segmented optical receiver to perform visible light positioning (VLP). We combine real world data collected from the IMU device with optical simulation data generated from a simulated segmented optical receiver in order to distinguish between various complex activities, particularly walk, walk-up and walk-down in addition to determining the position of where the activity is performed. The fusion mechanism does not only improve the accuracy of the activity recognition in comparison to utilizing either IMU or optical data alone, but also enables the system to furthermore retrieve the user's position in the room. By applying different Machine-learning (ML) algorithms for the assessment of the achievable results, we conduct a comprehensive analysis on which ML method is suitable for our envisioned low-complex HAR and positioning system, which avoids the placement of multiple sensors on the user's body. Our results show the influence of different segmentation strategies for the novel concept of a segmented optical receiver in combination with an IMU sensor on the accuracy of the activity and position recognition.  © 2022 SPIE.
+KW  - Human activity recognition
+KW  - inertial measurement unit sensors
+KW  - machine learning
+KW  - optical receiver
+KW  - optical simulation
+KW  - sensors data fusion
+KW  - Pattern recognition
+KW  - Sensor data fusion
+KW  - Activity recognition
+KW  - Complex activity
+KW  - Human activity recognition
+KW  - Human activity recognition systems
+KW  - Inertial measurement unit sensor
+KW  - Inertial measurements units
+KW  - Machine-learning
+KW  - Multiple sensors
+KW  - Optical simulation
+KW  - Sensors data fusion
+KW  - Machine learning
+LA  - English
+M3  - Conference paper
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 1
+ER  -
+
+TY  - JOUR
+AU  - Shao, W.
+AU  - Kam, J.
+AU  - Cass, E.
+TI  - Public awareness and perceptions of drought: A case study of two cities of Alabama
+PY  - 2023
+T2  - Risk, Hazards and Crisis in Public Policy
+VL  - 14
+IS  - 1
+SP  - 27
+EP  - 44
+DO  - 10.1002/rhc3.12248
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85125617737&doi=10.1002%2frhc3.12248&partnerID=40&md5=696422144792b82975a144e678383667
+AB  - Drought poses serious risks to society. There is, however, a lack of timely public awareness and sufficient public risk perceptions of this hazard due to its gradual onset. Timely and adequate public response is conducive to effective mitigation. It is imperative to understand how the public responds to drought. Using data from multiple sources, situated in two cities (Mobile and Huntsville) of Alabama, our study represents a comprehensive effort to understand public awareness and perceptions of drought. We have made several important findings. First, both physical and social contexts can influence public awareness of drought. Mobile is prone to a variety of coastal hazards and displays high social vulnerability. Residents in this city are thus more sensitive to environmental shocks, especially less frequent ones such as drought. Second, public awareness of drought is not constrained within the immediate drought impact area. Governmental declaration or regulation can bring the issue of drought from one area to the attention of the other area within one state. Third, public perceptions of drought numbers are negatively correlated with perceptions of precipitation but positively associated with perceptions of extreme heat. This finding reflects that the public perception of drought is in line with scientific understanding of drought. Drought is by definition persistent deficit of precipitation. Flash droughts can be triggered by heat waves which are more likely to occur during a drought. We end this study with recommendations for future studies. © 2022 Policy Studies Organization.
+KW  - awareness of drought
+KW  - drought: perceptions of drought
+LA  - English
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 1
+ER  -
+
+TY  - CHAP
+AU  - Pandey, K.K.
+AU  - Shukla, D.
+AU  - Milan, R.
+TI  - A Comprehensive Study of Clustering Algorithms for Big Data Mining with MapReduce Capability
+PY  - 2020
+T2  - Lecture Notes in Networks and Systems
+VL  - 100
+SP  - 427
+EP  - 440
+DO  - 10.1007/978-981-15-2071-6_34
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85083974315&doi=10.1007%2f978-981-15-2071-6_34&partnerID=40&md5=200ad4b4f46b7054598e93b9901fa0a0
+AB  - Big data mining is modern scientific research, which is used by all data related fields such as communication, computer, biology, geographical science, and so on. Basically, big data is related to volume, variety, velocity, variability, value, veracity, and visualization. Data mining technique is related to extract needed information, knowledge and hidden pattern, relations from large datasets with the heterogeneous format of data, which is collected by multiple sources. Data mining have classification, clustering, and association techniques for big data mining. Clustering is one of the approaches for mining, which is used for mine similar types of data, hidden patterns, and related data. All traditional clustering data mining approaches, such as partition, hierarchical, density, grid, and model-based algorithm, works on only high volume or high variety or high velocity. If we Apply the traditional clustering algorithms for big data mining then these algorithms will not work in the proper manner, and they need such clustering algorithms that work under high volume, high variety and high velocity. This paper presents the introduction to big data, big data mining, and traditional clustering algorithms concepts. From a theoretical, practical, and existing research perspective, this paper categorized clustering framework based on volume (dataset size, dimensional data), variety (dataset type, cluster shape), and velocity (scalability, time complexity), and presented a common framework for scalable and speed-up any type of clustering algorithm with MapReduce capability and shown this MapReduce clustering framework with the help of K-means algorithm. © Springer Nature Singapore Pte Ltd. 2020.
+KW  - Big data
+KW  - Big data mining
+KW  - Clustering
+KW  - Clustering algorithm
+KW  - MapReduce framework
+LA  - English
+M3  - Book chapter
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 5
+ER  -
+
+TY  - JOUR
+AU  - Lee, Y.-H.
+AU  - Chou, Y.-T.
+AU  - Sung, Y.-T.
+TI  - Development and Validation of a Diagnostic Assessment of Chinese Competence System
+PY  - 2021
+T2  - Bulletin of Educational Psychology
+VL  - 53
+IS  - 2
+SP  - 285
+EP  - 306
+DO  - 10.6251/BEP.202112_53(2).0002
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85123612857&doi=10.6251%2fBEP.202112_53%282%29.0002&partnerID=40&md5=be021b09ccd23d21d754df85110342ef
+AB  - Reading comprehension is essential for learning in all subjects and for lifelong learning; it is also a crucial ability allowing people to communicate and interact with one another. Therefore, large-scale international assessments such as the Progress in International Reading Literacy Study and Program for International Student Assessment incorporate reading as an indicator of learning outcomes. This study also recognizes the essential nature of reading comprehension. However, existing reading comprehension tests have several limitations. For example, the target populations of most tests comprise students in specific grades (e.g., elementary school students) or groups (e.g., students with special needs), and the assessments involve paper-and-pencil tests with fixed items that requires a lot of resources on test implementation and scoring. Currently, no Chinese reading comprehension assessment suitable for long-term implementation in general classrooms exists. Accordingly, the purpose of this study was to develop an assessment system, namely the Diagnostic Assessment of Chinese Competence (DACC), for comprehensively evaluating students’ reading abilities in the form of a computerized adaptive test. The reliability and validity of this system were also verified. The DACC system holistically assesses students’ reading comprehension and assesses student performance in reading subskills such as comprehension (e.g., lexical, literal, and inferential), contextual integration, and analysis and evaluation. This assessment system was designed for students from the 2nd grade to the 12th grade. The DACC test items were drafted by school teachers, doctoral students in psychology, and professionals engaged in research on the Chinese language. All drafters were required to attend and pass training before contributing test items to the DACC system. Item topics were selected to be familiar to students, such as topics relating to daily or school life. The topics are not limited to the language arts, covering life experience, history, geography, and science. In the proposed system, assessment texts appear in various formats, including continuous texts, noncontinuous texts, mixed texts, multiple texts, and texts displayed in hypertext. Text styles are also varied and include texts written in narrative, expository, descriptive, and argumentative styles. This wide range of texts reflects real-world reading situations encountered by students in their lives. Most of the DACC items are testlets, with each of the questions in the testlet corresponding to one of the five dimensions including vocabulary, literal comprehension, contextual integration, inferential comprehension, and analysis and evaluation. Such a design measures student performance in each of the dimensions and results in a comprehensive analysis of their reading abilities upon completion of the DACC. All test items were subjected to pilot tests to collect actual responses from students for the purpose of observing whether the questions meet the proposed design. The responses were also used to estimate item parameters. All DACC items were vertically equated on the basis of the nonequivalent groups with anchor test design. In the pilot tests, the characteristics of the respondents were also considered. Stratified random sampling was adopted to recruit students from both urban and rural areas to ensure that the parameter estimation results for the items apply to all students in the population. The DACC items were dichotomously scored in the pilot tests. At least 300 responses were gathered for each test item, and both classical test theory (CTT) and item response theory (IRT) were applied to analyze the responses. In the IRT-based analysis, this study used the multidimensional random coefficients multinomial logit model (MRCMLM) with marginal maximum likelihood estimation to estimate item parameters and used expected a posteriori measures to estimate ability parameters. In the CTT-based analysis, the pass rates and item discrimination were calculated for each item. To screen the DACC items for favorable psychometric characteristics, this study adopted two indicators. In the IRT-based analysis, the information-weighted mean square fit statistic (infit MNSQ) was used as the indicator to rule out misfit items, and items with infit MNSQ values between 0.6 and 1.4 were retained. In the CTT-based analysis, item discrimination was used as the indicator. Test items with discrimination of.3 or higher were retained. Accordingly, only when test items that met the requirements for both of these two indicators were entered into the formal item bank of the DACC system, resulting in 1019 items in this bank after data analysis. The range of item difficulties are bigger than-2 to 2, which corresponds to the ability parameters that include most students. The screening also demonstrated that the DACC is suitable for assessing the reading comprehension skills of students from the 2nd to 12th grades. To strengthen the effectiveness of the DACC system, this study constructed an assessment system based on computerized adaptive testing. For estimation of abilities, maximum a posteriori estimation (MAP) was used. For test item selection, Fisher’s information was applied to calculate the item information each time students finished answering a set of questions. The system then randomly assigned the next question from the five items with the highest information score. When the number of items answered met a previously set standard, the assessment was terminated. Furthermore, this study provided a set of reference norms for the students’ test results. A total of 38,099 students from 1,255 schools in Taiwan were included in the study. For these students, average scores were calculated for the students in each grade through the DACC system. Thus, students completing the assessment could compare their results against the norm and understand the level of their performance on the test. Such a reference can provide clear and objective standards to assist DACC users in assessing the grade level of their reading abilities. Accordingly, teachers can both determine whether their students’ reading abilities meet the required level and adjust their follow-up instruction based on the assessment results. In addition to the rigorous procedures for constructing the DACC assessment system, this study examined the reliability and validity of the system. For the test-retest reliability assessment, this study evaluated the scores of 1,449 students who completed the test twice; the evaluation results revealed that the average correlation of their two scores was.76, meaning that the DACC system has high reliability. In the IRT analysis, the conditional reliability of the DACC system was also high. Assessing the test results of 16,479 students revealed that the average reliability of the system was above.80, indicating that the DACC system has a stable and high reliability level for students of differing reading abilities. The validity of the assessment system was examined on the basis of criterion-related validity. Assessing the scores of 2,332 ninth-grade students who underwent both the DACC and the Comprehensive Assessment Program for Junior High School Students (a large-scale standardized test that all graduates of junior high school in Taiwan must complete) indicated that the correlation of the scores from the two tests was moderate (.64). Moreover, construct validity assessment results demonstrated that all DACC items fit the MRCMLM. In summary, this study adopted a series of rigorous procedures to construct a DACC assessment system; the reliability and validity of the DACC were also verified. IRT was utilized to analyze item parameters to determine difficulty levels and student ability levels. Additionally, an item bank and ability norms were established for the system, thus enabling the use of a computerized adaptive test for assessment, which can effectively determine reading comprehension levels and provide long-term tracking of reading ability growth trends. Results of test-retest reliability, conditional reliability, criterion validity, and IRT validity tests indicate that the DACC system provides a stable and effective assessment of student reading ability. For future studies, the DACC system’s item bank will be expanded. A control mechanism for the item exposure rate can also be adopted to improve the system’s effectiveness. Moreover, as a comprehensive assessment tool across multiple learning stages, the DACC system can provide empirical evidence for use in solving problems related to reading comprehension and make substantial contributions to related fields of research. © 2021, National Taiwan Normal University. All rights reserved.
+KW  - Chinese reading ability
+KW  - Computerized adaptive testing
+KW  - Diagnosis
+KW  - Reading comprehension
+LA  - Chinese
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 0
+ER  -
+
+TY  - JOUR
+AU  - Aach, M.
+AU  - Inanc, E.
+AU  - Sarma, R.
+AU  - Riedel, M.
+AU  - Lintermann, A.
+TI  - Large scale performance analysis of distributed deep learning frameworks for convolutional neural networks
+PY  - 2023
+T2  - Journal of Big Data
+VL  - 10
+IS  - 1
+C7  - 96
+DO  - 10.1186/s40537-023-00765-w
+UR  - https://www.scopus.com/inward/record.uri?eid=2-s2.0-85161423216&doi=10.1186%2fs40537-023-00765-w&partnerID=40&md5=f2c708f7ca3bfe57c3b45996b5c016f6
+AB  - Continuously increasing data volumes from multiple sources, such as simulation and experimental measurements, demand efficient algorithms for an analysis within a realistic timeframe. Deep learning models have proven to be capable of understanding and analyzing large quantities of data with high accuracy. However, training them on massive datasets remains a challenge and requires distributed learning exploiting High-Performance Computing systems. This study presents a comprehensive analysis and comparison of three well-established distributed deep learning frameworks—Horovod, DeepSpeed, and Distributed Data Parallel by PyTorch—with a focus on their runtime performance and scalability. Additionally, the performance of two data loaders, the native PyTorch data loader and the DALI data loader by NVIDIA, is investigated. To evaluate these frameworks and data loaders, three standard ResNet architectures with 50, 101, and 152 layers are tested using the ImageNet dataset. The impact of different learning rate schedulers on validation accuracy is also assessed. The novel contribution lies in the detailed analysis and comparison of these frameworks and data loaders on the state-of-the-art Jülich Wizard for European Leadership Science (JUWELS) Booster system at the Jülich Supercomputing Centre, using up to 1024 A100 NVIDIA GPUs in parallel. Findings show that the DALI data loader significantly reduces the overall runtime of ResNet50 from more than 12 h on 4 GPUs to less than 200 s on 1024 GPUs. The outcomes of this work highlight the potential impact of distributed deep learning using efficient tools on accelerating scientific discoveries and data-driven applications. Graphical Abstract: [Figure not available: see fulltext.] © 2023, The Author(s).
+KW  - Convolutional neural network
+KW  - Distributed deep learning
+KW  - High-Performance Computing
+KW  - ImageNet
+KW  - Performance analysis
+LA  - English
+M3  - Article
+DB  - Scopus
+N1  - Export Date: 10 January 2024; Cited By: 0
+ER  -
+
